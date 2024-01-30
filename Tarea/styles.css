@@ -1,5 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.904);
 }
 p{
     color: white;
@@ -17,7 +21,7 @@ h4{
     color: white;
 }
 a{
-    color: green;
+    color: rgba(43, 136, 43, 0.637);
 }
 ol{
     color: white;
